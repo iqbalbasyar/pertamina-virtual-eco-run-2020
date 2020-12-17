@@ -1,0 +1,15 @@
+Kolom,Keterangan
+id,User ID Twitter
+screen_name,Username Twitter
+created_at,Tanggal pembuatan akun
+n_follow,Jumlah user yang difollow
+n_follower,Jumlah follower
+n_tweets,Jumlah tweet
+verified,True jika akun twitter tersebut terverifikasi
+astroturf,Probability user yang mengandung konten politik atau mengikuti akun bot. 
+fake_follower,Probability user memiliki follower bot
+financial,Probability user memiliki konten finansial
+other,"Probability akun bot berdasarkan metric lain seperti feedback, anotasi manual, dsb"
+overall,Skor Probability akun bot menggunakan machine learning
+self_declared,Probability akun terdaftar sebagai bot pada botwiki.org
+spammer,Probability akun dinyatakan sebagai spammer

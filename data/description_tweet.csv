@@ -1,0 +1,12 @@
+Kolom,Keterangan
+text,Tweet
+id,Tweet Id
+userid,User Id Twitter
+username,Username Twitter
+created_at,Tanggal pembuatan tweet
+likes,jumlah likes pada tweet yang bersangkutan
+retweets,Jumlah retweet pada tweet yang bersangkutan
+isquote,True jika tweet yang bersangkutan merupakan quote dari tweet lain
+reply_to,"Tweet id dari tweet lain jika tweet yang bersangkutan merupakah reply. Jika tidak, berisi None"
+geo,"Informasi geografis pada tweet jika pengguna menyertakan. Jika tidak, berisi None"
+place,"Lokasi tweet jika pengguna menyertakan. Jika tidak, berisi None"
